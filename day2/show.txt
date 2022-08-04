@@ -1,0 +1,4 @@
+Thor , 10:00am , 10 
+Minions, 2:30pm, 2 
+charlie, 9:30pm, 20  
+Thor, 11:00pm,5
