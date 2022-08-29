@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.impact.project.ProjectApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.551 s <<< FAILURE! - in com.impact.project.ProjectApplicationTests
+com.impact.project.ProjectApplicationTests  Time elapsed: 0.55 s  <<< ERROR!
+java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test
+
